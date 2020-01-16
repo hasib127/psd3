@@ -1,0 +1,43 @@
+
+
+@media all and (max-width :966px){
+	.logo {
+    width: 20%;
+	}
+	.menu{
+		width:60%;
+	}
+
+	.icon-aria {
+    width: 20%;
+	}	
+	.banner-aria img {
+    width: 50px;
+    margin: 50px 0px 0px 117px;
+	}
+	.banner-aria {
+    width: 100%;
+    margin: auto;
+	}
+	.banner-aria p{
+		margin: 15px 140px;
+		
+	}
+	.banner-aria a{
+		margin: 20px 270px;
+		
+	}
+	.banner-aria h3{
+		margin: 165px 0px 0px 295px;
+		
+	}
+
+	.bg{
+		margin: 26px 268px;
+			
+	}
+	.header3 img {
+    width: 100%;
+    margin: 18px 0px 0px 0px;
+    overflow: hidden;
+}
